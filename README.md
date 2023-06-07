@@ -16,3 +16,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turazzi&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Turazzi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![snake_gif](https://github.com/Turazzi/Turazzi/blob/output/github-contribution-grid-snake.svg)
