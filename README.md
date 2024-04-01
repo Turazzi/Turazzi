@@ -1,7 +1,7 @@
 # Olá, eu sou a Ana! ☄️
 --------
 ![MasterHead](https://github.com/Turazzi/Turazzi/assets/93108019/941102dc-d8ce-450f-bf29-ccd3863135bf)
-<p align="center"> Sou estudante de Engenharia de Software - IFSP 🖥️. Gosto de pesquisar e aprender mais sobre as linguagens, gosto de encontrar soluções práticas e eficientes para desafios complexos e tenho isso como uma das minhas maiores qualidades💡. Me interesso bastante em como utilizamos os programas para facilitar a vida ✔️. Estou pesquisando em melhorar minhas habilidades e lógica de programação 🤓.</p>
+<p align="center"> Sou estudante de Engenharia de Software - IFSP 🖥️. Gosto de pesquisar e aprender mais sobre as linguagens, gosto de encontrar soluções práticas e eficientes para desafios complexos e tenho isso como uma das minhas maiores qualidades💡. Me interesso bastante em como utilizamos os programas para facilitar a vida ✔️.</p>
 <p align="center">
   <img align="center" alt="Cat coding" src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-42.gif" />
 </p>
