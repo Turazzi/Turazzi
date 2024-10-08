@@ -7,8 +7,6 @@
 </p>
 
 <h2 align="center"> Contatos </h2>
-  
-[![GitHub followers](https://img.shields.io/github/followers/tuliosabino?style=social)](https://github.com/Turazzi)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ana.turazzi/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-livia-turazzi-800a19219/)
