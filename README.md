@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp; • 🖥️ **Amante da área e de desenvolvimento de software**  
 <br/>
 &nbsp;&nbsp;&nbsp; • ✨ **23 anos**
-
+<br clear="left" />
   
 ----------
 
