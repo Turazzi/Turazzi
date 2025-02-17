@@ -1,12 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=a09cf3&section=header&reversal=false&descAlign=68"/>
 
+
 ## 👋 Oii, eu sou a Ana!
 
-- 👩‍🎓 **Estudante de Engenharia de Software no IFSP-SCL**
-- 👩‍💻 **Sempre buscando novos aprendizados e aprimorando minhas habilidades**
-- 🖥️ **Amante da área e de desenvolvimento de software**
-- ✨ **23 anos**
+<img src="https://cdn.picrew.me/shareImg/org/202502/338224_wq45IHWW.png" align="left" width="180"/>
+
+&nbsp;&nbsp;&nbsp; • 👩‍🎓 **Estudante de Engenharia de Software no IFSP-SCL**  
+<br/>
+&nbsp;&nbsp;&nbsp; • 👩‍💻 **Sempre buscando novos aprendizados e aprimorando minhas habilidades**  
+<br/>
+&nbsp;&nbsp;&nbsp; • 🖥️ **Amante da área e de desenvolvimento de software**  
+<br/>
+&nbsp;&nbsp;&nbsp; • ✨ **23 anos**
+
+  
 ----------
+
 <a href="https://github.com/turazzi/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=turazzi&theme=tokyonight" />
 </a>
