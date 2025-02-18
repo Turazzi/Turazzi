@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=a09cf3&section=header&reversal=false&descAlign=68"/>
 
-
 ## 👋 Oii, eu sou a Ana!
 
 <img src="https://cdn.picrew.me/shareImg/org/202502/338224_wq45IHWW.png" align="left" width="150"/>
@@ -13,7 +12,6 @@
 <br/>
 &nbsp;&nbsp;&nbsp; • ✨ **23 anos**
 
-  
 ----------
 
 <a href="https://github.com/turazzi/github-readme-stats">
@@ -34,6 +32,7 @@
   </a>
 </div>
 
+----
 
 ### 🛠️ Tecnologias & Ferramentas
 
@@ -42,7 +41,6 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
 
 #### Frameworks e Bibliotecas
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
@@ -66,5 +64,17 @@
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
+----
+
+### 🕹️ Hobbies  
+-  👾 **Games**
+-  📖 **Ler livros**  
+-  🎸 **Ouvir música**
+  
+----
+
+### 🌎 Linguagens Faladas  
+-  **Português (Nativo)**  
+-  **Inglês (Avançado)**  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=a09cf3&section=footer&reversal=false&descAlign=68"/>
