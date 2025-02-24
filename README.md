@@ -69,7 +69,6 @@
 ### 🕹️ Hobbies  
 -  📖 **Ler**  
 -  👾 **Games**
--  💪 **Musculação**
 -  🎸 **Ouvir música**
   
 ----
