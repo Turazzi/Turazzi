@@ -2,8 +2,6 @@
 
 ## 👋 Oii, eu sou a Ana!
 
-<img src="https://cdn.picrew.me/shareImg/org/202502/338224_wq45IHWW.png" align="left" width="150"/>
-
 &nbsp;&nbsp;&nbsp; • 👩‍🎓 **Estudante de Engenharia de Software no IFSP-SCL**  
 <br/>
 &nbsp;&nbsp;&nbsp; • 👩‍💻 **Sempre buscando novos aprendizados e aprimorando minhas habilidades**  
