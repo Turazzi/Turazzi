@@ -10,26 +10,6 @@
 <br/>
 &nbsp;&nbsp;&nbsp; • ✨ **23 anos**
 
-----------
-
-<a href="https://github.com/turazzi/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=turazzi&theme=tokyonight" />
-</a>
-<a href="https://github.com/turazzi/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=turazzi&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
-
----------
-
-<div align="center">  
-  <a href="mailto:analivia.turazzi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/ana-turazzi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
 ----
 
 ### 🛠️ Tecnologias & Ferramentas
